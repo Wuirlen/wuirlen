@@ -2,7 +2,7 @@
 
 Meu nome é Wuirlen Batalha Azevedo 👨‍🚀. Sou desenvolvedor de sites, aplicativos móveis e APIs. Atualmente, minhas stacks são:
 
-* 💻 Web full stack development with ReactJs
+* 💻 Web full stack development
 * 📱 Mobile applications for Android and iOS with React Native
 * 📡 API with NodeJs
 * 💾 Database: Postgres, Mongo, Firebase (Cloud Firestore/Real Time), MySQL
