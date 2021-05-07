@@ -13,4 +13,7 @@ Meu nome é Wuirlen Batalha Azevedo 👨‍🚀. Sou desenvolvedor de sites, apl
 
 
 
+[![Instagram Badge](https://img.shields.io/badge/-Wuirlen_Azevedo-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/wuirlen_azevedo/)](https://www.instagram.com/wuirlen_azevedo/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Wuirlen%20Batalha%20Azevedo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuirlen-azevedo-6534a0172/)](https://www.linkedin.com/in/wuirlen-azevedo-6534a0172/) 
+
 
